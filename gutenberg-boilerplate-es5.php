@@ -10,7 +10,7 @@
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
-	die( 'Silence is golden.' );
+	die; // Silence is golden.
 }
 
 /**
